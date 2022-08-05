@@ -1,0 +1,41 @@
+{
+  "en": {
+    "First line indent": "First line indent"
+  },
+  "es": {
+    "First line indent": "Incidente de primera linea"
+  },
+  "fr": {
+    "First line indent": "Retrait de première ligne"
+  },
+  "de": {
+    "First line indent": "Erster Zeileneinzug"
+  },
+  "zh_CN": {
+    "First line indent": "首行缩进"
+  },
+  "zh_TW": {
+    "First line indent": "首行缩进"
+  },
+  "ja": {
+    "First line indent": "ファーストラインインデント"
+  },
+  "ko": {
+    "First line indent": "첫 번째 줄의 들여 쓰기"
+  },
+  "nl": {
+    "First line indent": "Eerste regel inspring"
+  },
+  "hu": {
+    "First line indent": "Első sor behúzás"
+  },
+  "pt": {
+    "First line indent": "Recado de primeira linha"
+  },
+  "cs": {
+    "First line indent": "První řádek"
+  },
+  "vi": {
+    "First line indent": "Dòng đầu tiên thụt lề"
+  }
+}
